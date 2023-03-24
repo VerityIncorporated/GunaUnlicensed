@@ -1,5 +1,6 @@
 # Features
 - Hides Guna License Engine window
+- Only works for .netcore
 
 # Usage
 
