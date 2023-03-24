@@ -1,5 +1,5 @@
 # Features
-- Gay
+- Hides Guna License Engine windows
 
 # Contributors
 - [@Verity (Developer)](https://github.com/VerityIncorporated)
